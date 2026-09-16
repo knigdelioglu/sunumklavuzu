@@ -1,6 +1,6 @@
 # Osmancık — Öğretmen Sunum Kontrol Dosyası
 
-> Bu dosya yöntemin örnek çıktısıdır. Ham NotebookLM analizinin son öz-denetim düzeltmeleri esas alınmıştır.
+> Bu dosya yöntemin örnek çıktısıdır. Ham analizlerin son öz-denetim düzeltmeleri esas alınmıştır.
 
 ## 30 Saniyelik Öğretmen Kartı
 
