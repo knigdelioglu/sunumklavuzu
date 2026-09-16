@@ -38,9 +38,9 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 
 **Kaynak yönü:** İnönü yolculuğu ve baskın dönemindeki Sungur; yaşlı Osman'ın yalnız Sungur'la İnönü, İtburnu, Tepepınar, Domaniç, Sivrikaya, Harlak, İkizce ve Bilecik üzerinden yaptığı yolculuk; Bursa müjdesi.
 
-**Kontrol sorusu:** Osman Gazi Hân pazar vergisi ve tımar konusunda yöneticinin yetkisini hangi iki kuralla sınırlar?
+**Kontrol sorusu:** Osman Gazi Hân öldüğünde cenazesi neden hemen Bursa'daki Gümüşlü Kubbe'ye götürülmez?
 
-**Kontrol cevabı:** Malını satamayan kişiden vergi alınmamasını emreder; verdiği tımarın sebepsiz yere geri alınmamasını ve sahibinin ölümünden sonra oğluna geçmesini ister.
+**Kontrol cevabı:** Osman Bursa'da Gümüşlü Kubbe'nin altına gömülmek istemiştir; ancak ölümünden sonra Orhan Bey “Bursa'ya vakit gerek” der. Bu nedenle cenaze önce Söğüt'e götürülür.
 
 ---
 
@@ -52,9 +52,9 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 
 **Kaynak yönü:** İnönü meclisinde Osman'ın ney üflemesi ve baskının başlaması; ileri yaşlarında düzen ve devlet işleri arasında yalnız kalıp su başında veya tepede ney üflemesi.
 
-**Kontrol sorusu:** Yarhisar alındıktan sonra Holofira'ya nasıl bir seçim hakkı tanınır ve o neyi seçer?
+**Kontrol sorusu:** Savcı Bey'in şehadetinden sonra Ayna Melek, babasının kendisini götürme isteğine nasıl cevap verir ve neden?
 
-**Kontrol cevabı:** Osman Gazi Hân, Holofira'ya isterse babasıyla gidebileceğini, isterse kalabileceğini bildirir. Holofira kendi isteğiyle kalıp Orhan'ın ailesini ailesi saymayı seçer; daha sonra Nilüfer adını alır.
+**Kontrol cevabı:** Savcı Bey'in evini ve çadırını bırakmayacağını söyler. Bânu Çiçek'in babasının evinden gelin çıkmasını ister ve doğacak çocuğunu da burada büyütmeye kararlıdır.
 
 ---
 
@@ -66,9 +66,9 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 
 **Kaynak yönü:** İznik'in düşüşünün ardından Bizans tarafındaki ittifak hazırlığı; Koyun Hisarı savaşı, Aydoğdu'nun şehadeti ve Osman'ın Bursa'ya yönelişi.
 
-**Kontrol sorusu:** Dursun Fakı'nın Osman Gazi Hân adına hutbe okumasından önce neden kardeş boyların beylerinin görüşü alınır?
+**Kontrol sorusu:** İnegöl fethinden sonra halk Aya Nikola'ya saldırmak isterken Osman Bey nasıl davranır?
 
-**Kontrol cevabı:** Ede Balı, Osman'ın bağımsızlık iradesini doğru bulur ancak töreyi değiştirecek bir adımın ortak rıza ve tedbir gerektirdiğini söyler. Osman bunun üzerine kardeş boyların beyleri ve Ertuğrul Gazi'nin yoldaşlarıyla görüşür; onların onayından sonra hutbe ve kadılık düzeni uygulanır.
+**Kontrol cevabı:** Halkın onu linç etmesine izin vermez. Aya Nikola'yı sokaklarda gezdirip ardından serbest bırakılmasını emreder; ailesi varsa onların da yanına katılmasını söyler.
 
 ## Paket içi ve paketler arası denetim
 
@@ -77,4 +77,4 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 - Öğrenci 18 tek bir savaş değil, Sungur'un uzun zaman içindeki tanıklığını inceler.
 - Öğrenci 19 öfke kontrolünü değil, Osman'ın savaşçı ve içe dönük yönlerinin birlikte var oluşunu inceler.
 - Öğrenci 20 şehadet karşılaştırması değil, mücadelenin ölçeğinin büyümesini ve tekfur ittifakını inceler; Öğrenci 10'dan ayrıdır.
-- Kontrol soruları öğrencilerin kendi sunum alanlarının dışındadır.
+- 18–20. öğrencilerin kontrol soruları önceki öğrencilerdeki kontrol sorularını tekrar etmez.
