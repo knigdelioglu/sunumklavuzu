@@ -41,12 +41,14 @@ Analiz çıktıları tek bir pakette toplanır. Son öğretmen kılavuzu şu sı
 2. Eserin yapı/akış haritası
 3. Temel kişi/kavram/konuşmacı haritası
 4. Kısa özetlerde kaybolan ayırt edici ayrıntılar
-5. Yüksek ayırt edicilikli soru bankası
-6. Her soruya kısa cevap ve takip sorusu
-7. 5 soruluk hazır öğrenci setleri
+5. Sunum soruları
+6. Her soru için cevap, takip sorusu ve takip cevabı
+7. Hazır soru grupları
 8. Metne hâkimiyet rubriği
 9. Kaçınılması gereken kolay sorular
 10. Öz-denetimde düzeltilen/belirsiz noktalar
+
+Nihai öğretmen dosyasında soru kategorisi, soru kodu veya teknik üretim etiketi gösterme. Öğretmenin göreceği yapı mümkün olduğunca sade olmalıdır.
 
 ## E. Soru tasarım ilkesi
 
