@@ -6,7 +6,7 @@ Bu repo, öğretmenin öğrenci kitap/eser sunumlarını değerlendirirken **ese
 
 ## Kapsam dahilinde
 
-- NotebookLM için kısa ve aşamalı analiz promptları
+- Kısa ve aşamalı analiz promptları
 - Farklı edebî ve kurmaca dışı eser türleri için tür modülleri
 - Öğretmen sunum kontrol dosyası üretme yöntemi
 - Ayırt edici ayrıntı, yapı, bağlantı ve takip sorusu üretimi
@@ -24,7 +24,7 @@ Bu repo, öğretmenin öğrenci kitap/eser sunumlarını değerlendirirken **ese
 
 ## Kaynak ilkesi
 
-Ana çalışma kaynağı eserin kendisidir. NotebookLM'e yardımcı kaynaklar eklenmişse analiz sırasında mümkün olduğunca yalnız eser kaynağı seçilmelidir.
+Ana çalışma kaynağı eserin kendisidir. Yardımcı kaynaklar kullanılıyorsa ilk analiz sırasında mümkün olduğunca yalnız eser kaynağı seçilmelidir.
 
 Eserin desteklemediği bir bilgi:
 
