@@ -1,4 +1,4 @@
-# NotebookLM Promptları
+# Analiz Promptları
 
 Bu klasördeki promptlar tek tek çalıştırılmak üzere tasarlanmıştır. Hepsini tek mesaja birleştirmeyin.
 
@@ -14,6 +14,6 @@ Bu klasördeki promptlar tek tek çalıştırılmak üzere tasarlanmıştır. He
 
 ## Kural
 
-Her promptta yalnız yüklenmiş eseri kaynak aldırın. NotebookLM'de birden fazla kaynak varsa eser dışındaki kaynakları mümkünse kapatın.
+Her promptta yalnız yüklenmiş eseri kaynak aldırın. Çalışma ortamında birden fazla kaynak varsa eser dışındaki kaynakları mümkünse devre dışı bırakın.
 
 Tür modülü seçerken eseri zorla "roman" gibi ele almayın. Olay örgüsü olmayan bir eserde kronoloji, karakter gelişimi veya sahne soruları üretmek yerine o türün doğal yapısını ölçün.
