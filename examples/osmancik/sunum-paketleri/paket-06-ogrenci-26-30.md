@@ -16,13 +16,13 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 
 ---
 
-## Öğrenci 27 — Haber Almadan Karar Vermemek
+## Öğrenci 27 — Haberi Doğrulamak ve Karara Dönüştürmek
 
-**Görev:** Aratun'un Harmankaya baskını, Kulacahisar'daki takviye ve Ermeni Beli pususu hakkında getirdiği haberlerle Köse Mihal'in tekfurların ittifak hazırlıklarını bildirmesini ilişkilendir. Osman'ın yalnız savaş gücüyle değil, farklı çevrelerden gelen güvenilir bilgileri değerlendirerek karar veren bir lidere dönüşmesini incele.
+**Görev:** Osman'ın Aratun'dan farklı zamanlarda aldığı Harmankaya ve Kulacahisar haberleri ile Ermeni Beli pususu öncesinde Mihail Kosses'ten ve hemen ardından Aratun'dan aynı yönde gelen iki haberi ilişkilendir. Osman'ın yalnız haber toplamadığını, farklı kaynaklardan gelen bilgiyi doğrulayıp danışarak askerî karara dönüştürdüğünü incele.
 
 **Sunumunda:** En az iki somut metin dayanağı kullan, bunların ilişkisini açıkla ve kendi sonucunu çıkar.
 
-**Kaynak yönü:** Aratun'un Aya Nikola'nın Harmankaya saldırısını haber vermesi ve Konur Alp'ın görevlendirilmesi; Kulacahisar'daki düşman takviyesi; Ermeni Beli pususu; Köse Mihal'in Bilecik ve diğer tekfurların birleşmesiyle ilgili haberleri.
+**Kaynak yönü:** Aratun'un Harmankaya baskınını haber vermesi ve Konur Alp'ın görevlendirilmesi; Kulacahisar'a gönderilen takviye bilgisinin planı değiştirmesi; Ermeni Beli öncesinde Mihail'in habercisi ile Aratun'un birbirinden bağımsız olarak aynı pusuyu bildirmesi ve Osman'ın yoldaşlarıyla karar vermesi.
 
 **Kontrol sorusu:** Osman'ın yaşlılığında Bursa için doğrudan saldırı yerine hangi yöntem uygulanır ve neden?
 
@@ -73,7 +73,7 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 ## Paket içi ve paketler arası denetim
 
 - Öğrenci 26 Bilecik'in fethini değil, uzun yıllara yayılan güven ilişkisinin bozulmasını inceler; Öğrenci 7'nin Gökçe Bacı/Bilecik görevinden ayrıdır.
-- Öğrenci 27 tek bir savaşın stratejisini değil, farklı kaynaklardan bilgi toplama ve doğrulama düzenini inceler.
+- Öğrenci 27 tek bir savaşın stratejisini veya Bilecik ittifakını değil, farklı haber kaynaklarının doğrulanmasını ve karara dönüştürülmesini inceler.
 - Öğrenci 28 kadınların genel rolünü değil, Ayna Melek'in iki kayıp sonrasındaki kişisel ve ailevi devamlılığını inceler; Öğrenci 17'nin Cankız görevinden ayrıdır.
 - Öğrenci 29 Orhan'ın çocukluk eğitiminden farklı olarak askerî kuşak değişimini inceler; Öğrenci 21 ile çakışmaz.
 - Öğrenci 30 bütün karakter dönüşümünü anlatmaz; yalnız geçmiş bilgisinin Osman'ın görev ve kimlik anlayışına etkisini ele alır.
