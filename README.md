@@ -13,7 +13,7 @@ Amaç, öğrencinin yapay zekâ kullanıp kullanmadığını tahmin etmek değil
 5. Analiz çıktıları tek dosyada toplanır.
 6. Bu ham incelemelerden öğretmen için kısa, kullanılabilir bir **Sunum Kontrol Dosyası** hazırlanır.
 7. Sunum sırasında genel özet sorularından çok; sahne, yapı, ayrıntı, bağlantı, gerekçe ve takip soruları kullanılır.
-8. Bütün sınıf aynı eseri sunacaksa `SINIF-SUNUM-SISTEMI.md` ve `prompts/core/06-sinif-sunum-gorevleri.md` kullanılarak öğrenci sayısı kadar farklı sunum görevi hazırlanır.
+8. Bütün sınıf aynı eseri sunacaksa `SINIF-SUNUM-SISTEMI.md` uygulanır ve görevler en fazla 5 öğrencilik paketler hâlinde hazırlanır.
 
 ## Tek eser, farklı sunumlar
 
@@ -22,14 +22,22 @@ Aynı kitabı 25-30 öğrencinin art arda özetlemesi yerine her öğrenciye far
 Her öğrenci:
 
 - eserin tamamından sorumlu kalır,
-- kendi sunumunda bir temel iddia ortaya koyar,
-- en az iki somut metin dayanağı kullanır,
-- eserin başka bir kısmıyla bağlantı kurar,
+- kendi sunumunda en az iki somut metin dayanağı kullanır,
+- bu dayanaklar arasında bağlantı kurar,
+- kendi sonucuna ulaşır,
 - sunum sonunda kendi özel başlığının dışından bir kontrol sorusuna cevap verir.
 
-Ayrıntılı yöntem: [`SINIF-SUNUM-SISTEMI.md`](SINIF-SUNUM-SISTEMI.md)
+Uzun tek üretim yerine sınıf 5'li paketlere ayrılır. Her paket için:
 
-Öğrenci sayısına göre görev üretme promptu: [`prompts/core/06-sinif-sunum-gorevleri.md`](prompts/core/06-sinif-sunum-gorevleri.md)
+1. `06a-sunum-gorevleri-5li.md` — görevleri üretir.
+2. `06b-kontrol-sorulari-5li.md` — kontrol sorularını ayrı üretir.
+3. `06c-paket-denetimi.md` — yalnız o paketi son kez düzeltir.
+
+30 kişilik örnek akış:
+
+`1-5 → 6-10 → 11-15 → 16-20 → 21-25 → 26-30`
+
+Ayrıntılı yöntem: [`SINIF-SUNUM-SISTEMI.md`](SINIF-SUNUM-SISTEMI.md)
 
 ## Desteklenen eser türleri
 
@@ -61,7 +69,9 @@ sunumklavuzu/
 │   │   ├── 03-baglanti-ve-kronoloji.md
 │   │   ├── 04-sunum-sorulari.md
 │   │   ├── 05-oz-denetim.md
-│   │   └── 06-sinif-sunum-gorevleri.md
+│   │   ├── 06a-sunum-gorevleri-5li.md
+│   │   ├── 06b-kontrol-sorulari-5li.md
+│   │   └── 06c-paket-denetimi.md
 │   └── types/
 │       ├── roman-hikaye.md
 │       ├── tiyatro.md
@@ -73,7 +83,8 @@ sunumklavuzu/
 │   └── sinif-sunum-dagitim-plani.md
 └── examples/
     └── osmancik/
-        └── README.md
+        ├── README.md
+        └── ogretmen-sunum-kontrol-dosyasi.md
 ```
 
 ## Hızlı kullanım
@@ -82,7 +93,7 @@ sunumklavuzu/
 
 Analiz çıktıları mümkünse kaynak atıflarıyla saklanır. Son sentezde yalnız metnin desteklediği bilgiler kullanılmalı; belirsiz noktalar kesinleştirilmemelidir.
 
-Bütün sınıf aynı eseri sunacaksa analiz ve öz-denetim tamamlandıktan sonra `06-sinif-sunum-gorevleri.md` çalıştırılır ve `{{OGRENCI_SAYISI}}` yerine sınıf mevcudu yazılır.
+Bütün sınıf aynı eseri sunacaksa analiz ve öz-denetim tamamlandıktan sonra her 5'li öğrenci paketi için `06a → 06b → 06c` sırası uygulanır.
 
 ## Değerlendirme ilkesi
 
