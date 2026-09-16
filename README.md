@@ -16,6 +16,7 @@ Amaç, öğrencinin yapay zekâ kullanıp kullanmadığını tahmin etmek değil
 8. Paketler topluca denetlenir; tekrar eden, fazla kolay/zor veya dar/geniş görevler düzeltilir.
 9. Son görevler öğrenciye verilecek sade **Sunum Görev Kartları**na dönüştürülür.
 10. Sunum sonunda öğretmen, öğrencinin kendi kartının dışından bir kontrol sorusu sorar.
+11. Sunum, kontrol sorusu ve genel metin hâkimiyeti ayrı ayrı kaydedilir.
 
 ## Tek eser, farklı sunumlar
 
@@ -37,7 +38,7 @@ Uzun tek üretim yerine sınıf 5'li paketlere ayrılır. Her paket için:
 
 30 kişilik örnek akış:
 
-`1-5 → 6-10 → 11-15 → 16-20 → 21-25 → 26-30 → toplu denetim → öğrenci kartları`
+`1-5 → 6-10 → 11-15 → 16-20 → 21-25 → 26-30 → toplu denetim → öğrenci kartları → öğretmen takip çizelgesi`
 
 Ayrıntılı yöntem: [`SINIF-SUNUM-SISTEMI.md`](SINIF-SUNUM-SISTEMI.md)
 
@@ -83,12 +84,14 @@ sunumklavuzu/
 ├── templates/
 │   ├── ogretmen-sunum-kontrol-dosyasi.md
 │   ├── sinif-sunum-dagitim-plani.md
-│   └── ogrenci-sunum-gorev-karti.md
+│   ├── ogrenci-sunum-gorev-karti.md
+│   └── sinif-sunum-puanlama-cizelgesi.md
 └── examples/
     └── osmancik/
         ├── README.md
         ├── kaynak-haritasi.md
         ├── ogretmen-sunum-kontrol-dosyasi.md
+        ├── ogretmen-sinif-takip-cizelgesi.md
         ├── ogrenci-gorev-kartlari.md
         └── sunum-paketleri/
             ├── 00-genel-denetim.md
@@ -102,6 +105,8 @@ sunumklavuzu/
 Analiz çıktıları mümkünse kaynak atıflarıyla saklanır. Son sentezde yalnız metnin desteklediği bilgiler kullanılmalı; belirsiz noktalar kesinleştirilmemelidir.
 
 Bütün sınıf aynı eseri sunacaksa analiz ve öz-denetim tamamlandıktan sonra her 5'li öğrenci paketi için `06a → 06b → 06c` sırası uygulanır. Bütün paketler tamamlanınca görevler birlikte yeniden denetlenir ve öğrenciye dağıtılacak sürüm `templates/ogrenci-sunum-gorev-karti.md` yapısına dönüştürülür. Öğrenci kartında öğretmen kontrol sorusunun cevabı bulunmaz.
+
+Ders sırasında `templates/sinif-sunum-puanlama-cizelgesi.md` yapısı kullanılabilir. **Sunum görevi**, **kontrol sorusu** ve **genel metin hâkimiyeti** ayrı ayrı 0–4 puanlanır. Böylece yalnız iyi konuşan öğrenci ile eserin tamamına gerçekten hâkim öğrenci birbirinden ayrılabilir.
 
 Kaynak-doğrulamalı tam örnek için: [`examples/osmancik/README.md`](examples/osmancik/README.md)
 
