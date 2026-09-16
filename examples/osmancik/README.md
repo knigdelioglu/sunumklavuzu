@@ -29,7 +29,7 @@ Bu klasör, yöntemin ilk örnek uygulamasını kaydeder.
 
 ## Öz-denetimin önemi
 
-NotebookLM'in son öz-denetim turu önceki bazı tespitleri düzeltti. Bu örnek, `core/05-oz-denetim.md` adımının atlanmaması gerektiğini gösterir.
+Son öz-denetim turu önceki bazı tespitleri düzeltti. Bu örnek, `core/05-oz-denetim.md` adımının atlanmaması gerektiğini gösterir.
 
 Özellikle:
 
