@@ -54,15 +54,20 @@ Nihai öğretmen dosyasında soru kategorisi, soru kodu veya teknik üretim etik
 
 Aynı eserin 25-30 kez yeniden özetlenmesini önlemek için `SINIF-SUNUM-SISTEMI.md` uygulanır.
 
-Öz-denetim tamamlandıktan sonra:
+Uzun tek üretim yapılmaz. Sınıf en fazla 5 öğrencilik paketlere ayrılır.
 
-1. `prompts/core/06-sinif-sunum-gorevleri.md` çalıştırılır.
-2. `{{OGRENCI_SAYISI}}` yerine gerçek sınıf mevcudu yazılır.
-3. Öğrenci sayısı kadar birbirinden farklı sunum görevi üretilir.
-4. Ardından `prompts/core/07-sunum-dagitim-denetimi.md` çalıştırılır; ilk dağıtımdaki ağır başlıklar, dengesiz görevler, trivia kontrol soruları ve ifade bozuklukları düzeltilir.
-5. Her görevde öğrenciden en az iki somut metin dayanağı ve eserin başka bir kısmıyla bağlantı istenir.
-6. Her öğrenci için, sunum başlığının dışından en az bir kontrol sorusu hazırlanır.
-7. Dağıtım `templates/sinif-sunum-dagitim-plani.md` düzeninde saklanabilir.
+30 kişilik örnek:
+
+`1-5 → 6-10 → 11-15 → 16-20 → 21-25 → 26-30`
+
+Her paket için:
+
+1. `prompts/core/06a-sunum-gorevleri-5li.md` çalıştırılır ve `{{OGRENCI_ARALIGI}}` yerine o paket yazılır.
+2. `prompts/core/06b-kontrol-sorulari-5li.md` ile yalnız aynı öğrencilerin kontrol soruları üretilir.
+3. `prompts/core/06c-paket-denetimi.md` ile görevler ve kontrol soruları birlikte son kez gözden geçirilir.
+4. Son paket tamamlandıktan sonra bütün paketler `templates/sinif-sunum-dagitim-plani.md` içinde birleştirilebilir.
+
+Sonraki paket üretilirken önceki paketlerin görevleri konuşma bağlamında tutulur; yeni paket bunları tekrar etmemelidir.
 
 Özel sunum görevi öğrencinin yalnız o kısmından sorumlu olduğu anlamına gelmez. Bütün öğrenciler eserin tamamından sorumludur.
 
