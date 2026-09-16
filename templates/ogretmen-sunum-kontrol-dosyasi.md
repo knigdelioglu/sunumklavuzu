@@ -70,7 +70,7 @@ Eserin kısa özetinden doğrudan cevaplanabilecek 5-10 genel soruyu burada işa
 
 ## 9. Öz-Denetim Düzeltmeleri
 
-NotebookLM'in son denetiminde düzelttiği veya `BELİRSİZ` bıraktığı noktaları burada sakla.
+Son denetimde düzeltilen veya `BELİRSİZ` bırakılan noktaları burada sakla.
 
 ## 10. Öğretmen Notu
 
