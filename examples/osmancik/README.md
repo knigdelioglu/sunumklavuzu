@@ -10,6 +10,7 @@ Bu klasör, yöntemin ilk kaynak-doğrulamalı örnek uygulamasını kaydeder.
 - **Doğrudan PDF doğrulaması:** [`kaynak-haritasi.md`](kaynak-haritasi.md)
 - **Öğretmen kontrol dosyası:** [`ogretmen-sunum-kontrol-dosyasi.md`](ogretmen-sunum-kontrol-dosyasi.md)
 - **Öğrenciye verilecek 30 görev kartı:** [`ogrenci-gorev-kartlari.md`](ogrenci-gorev-kartlari.md)
+- **30 öğrencilik öğretmen takip/puanlama çizelgesi:** [`ogretmen-sinif-takip-cizelgesi.md`](ogretmen-sinif-takip-cizelgesi.md)
 - **30 öğrencilik genel denetim:** [`sunum-paketleri/00-genel-denetim.md`](sunum-paketleri/00-genel-denetim.md)
 
 ## 30 Öğrencilik Sunum Paketleri
@@ -27,7 +28,9 @@ Her öğrenci görevi yaklaşık 3–5 dakikalık sunuma göre tasarlanmıştır
 
 Öğrenciye dağıtım için paket dosyaları değil, [`ogrenci-gorev-kartlari.md`](ogrenci-gorev-kartlari.md) kullanılmalıdır. Bu dosyada öğretmen kontrol soruları ve cevapları yer almaz; öğrenci yalnız kendi sunum görevini görür.
 
-Genel kart yapısı başka eserlerde de kullanılabilsin diye [`../../templates/ogrenci-sunum-gorev-karti.md`](../../templates/ogrenci-sunum-gorev-karti.md) şablonu eklenmiştir.
+Ders sırasında öğretmen [`ogretmen-sinif-takip-cizelgesi.md`](ogretmen-sinif-takip-cizelgesi.md) dosyasını kullanabilir. Çizelgede 30 öğrencinin görev başlığı, konu dışı kontrol sorusu ve 0–4 üzerinden üç ayrı değerlendirme alanı bulunur.
+
+Genel kart yapısı başka eserlerde de kullanılabilsin diye [`../../templates/ogrenci-sunum-gorev-karti.md`](../../templates/ogrenci-sunum-gorev-karti.md), puanlama yapısı için de [`../../templates/sinif-sunum-puanlama-cizelgesi.md`](../../templates/sinif-sunum-puanlama-cizelgesi.md) şablonu eklenmiştir.
 
 ## Kaynak Önceliği
 
