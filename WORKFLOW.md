@@ -50,7 +50,22 @@ Analiz çıktıları tek bir pakette toplanır. Son öğretmen kılavuzu şu sı
 
 Nihai öğretmen dosyasında soru kategorisi, soru kodu veya teknik üretim etiketi gösterme. Öğretmenin göreceği yapı mümkün olduğunca sade olmalıdır.
 
-## E. Soru tasarım ilkesi
+## E. Bütün sınıf aynı eseri sunacaksa
+
+Aynı eserin 25-30 kez yeniden özetlenmesini önlemek için `SINIF-SUNUM-SISTEMI.md` uygulanır.
+
+Öz-denetim tamamlandıktan sonra:
+
+1. `prompts/core/06-sinif-sunum-gorevleri.md` çalıştırılır.
+2. `{{OGRENCI_SAYISI}}` yerine gerçek sınıf mevcudu yazılır.
+3. Öğrenci sayısı kadar birbirinden farklı sunum görevi üretilir.
+4. Her görevde öğrenciden en az iki somut metin dayanağı ve eserin başka bir kısmıyla bağlantı istenir.
+5. Her öğrenci için, sunum başlığının dışından en az bir kontrol sorusu hazırlanır.
+6. Dağıtım `templates/sinif-sunum-dagitim-plani.md` düzeninde saklanabilir.
+
+Özel sunum görevi öğrencinin yalnız o kısmından sorumlu olduğu anlamına gelmez. Bütün öğrenciler eserin tamamından sorumludur.
+
+## F. Soru tasarım ilkesi
 
 Güçlü soru şunlardan en az birini gerektirir:
 
@@ -70,7 +85,7 @@ Zayıf soru yalnızca şunları sorar:
 - kitabın sonu,
 - internetteki kısa bir özetten doğrudan alınabilecek bilgiler.
 
-## F. Değerlendirme
+## G. Değerlendirme
 
 Her öğrenciye mümkünse en az üç kontrol sorusu sor:
 
