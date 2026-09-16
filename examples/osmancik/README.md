@@ -9,6 +9,7 @@ Bu klasör, yöntemin ilk kaynak-doğrulamalı örnek uygulamasını kaydeder.
 - **Kullanılan tür modülü:** `prompts/types/roman-hikaye.md`
 - **Doğrudan PDF doğrulaması:** [`kaynak-haritasi.md`](kaynak-haritasi.md)
 - **Öğretmen kontrol dosyası:** [`ogretmen-sunum-kontrol-dosyasi.md`](ogretmen-sunum-kontrol-dosyasi.md)
+- **Öğrenciye verilecek 30 görev kartı:** [`ogrenci-gorev-kartlari.md`](ogrenci-gorev-kartlari.md)
 - **30 öğrencilik genel denetim:** [`sunum-paketleri/00-genel-denetim.md`](sunum-paketleri/00-genel-denetim.md)
 
 ## 30 Öğrencilik Sunum Paketleri
@@ -23,6 +24,10 @@ Sunum görevleri tek seferde 30 madde üretmek yerine 5'erli paketler halinde ha
 - [`paket-06-ogrenci-26-30.md`](sunum-paketleri/paket-06-ogrenci-26-30.md)
 
 Her öğrenci görevi yaklaşık 3–5 dakikalık sunuma göre tasarlanmıştır. Görevler en az iki metin noktasını ilişkilendirir. Her pakette ayrıca öğrencinin kendi sunum alanının dışından bir kontrol sorusu ve cevabı bulunur.
+
+Öğrenciye dağıtım için paket dosyaları değil, [`ogrenci-gorev-kartlari.md`](ogrenci-gorev-kartlari.md) kullanılmalıdır. Bu dosyada öğretmen kontrol soruları ve cevapları yer almaz; öğrenci yalnız kendi sunum görevini görür.
+
+Genel kart yapısı başka eserlerde de kullanılabilsin diye [`../../templates/ogrenci-sunum-gorev-karti.md`](../../templates/ogrenci-sunum-gorev-karti.md) şablonu eklenmiştir.
 
 ## Kaynak Önceliği
 
