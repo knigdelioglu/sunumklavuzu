@@ -50,7 +50,7 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 
 **Sunumunda:** En az iki somut metin dayanağı kullan, bunların ilişkisini açıkla ve kendi sonucunu çıkar.
 
-**Kaynak yönü:** İlk karşılaşma; İnönü; Cankız'ın cenazesi; Konur Alp'ın davranışı; Aydos ve elçi Abdullah; Dursun Fakı önündeki ihtida (özellikle PDF s. 167 ve 217–240).
+**Kaynak yönü:** Osmancık'la ilk karşılaşma; İnönü'deki Al Zahid baskını; Cankız'ın cenazesi; Aydos'ta elçi Abdullah'ın öldürülmesi ve kuşatma; Dursun Fakı önündeki ihtida. Konur Alp–Arkelaos sahnesini bu görevde ana dayanak olarak kullanma; o olay ayrı bir sunum görevinin merkezindedir.
 
 **Kontrol sorusu:** Gökçe Bacı Bilecik'in alınmasında nasıl bir görev üstlenir ve nasıl şehit olur?
 
