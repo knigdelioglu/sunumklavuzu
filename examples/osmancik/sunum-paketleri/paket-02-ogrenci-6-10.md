@@ -10,9 +10,9 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 
 **Kaynak yönü:** Aydos kuşatması ve Abdullah'ın ölümü; Evdoksiya'nın mektubu; kuşatmanın kaldırılmış gibi gösterilmesi ve gece baskını (PDF yaklaşık s. 215–224).
 
-**Kontrol sorusu:** Bay Koca ile Savcı Bey'in şehadetleri arasında nasıl bir benzerlik vardır ve olaylar hangi sırayla gerçekleşir?
+**Kontrol sorusu:** İkizce'de Osman Bey, Kalanoz'u nasıl etkisiz hâle getirir ve onu kendi kılıcıyla öldürür mü?
 
-**Kontrol cevabı:** Bay Koca önce Ermeni Beli'nde Kalanoz'un hilesiyle şehit olur. Daha sonra İkizce'de babası Savcı Bey de Kalanoz'a saldırırken oğlununkine çok benzeyen bir süreç yaşar ve Kalanoz tarafından şehit edilir.
+**Kontrol cevabı:** Kalanoz'un kılıcını düşürür, kendi kılıcını boynu hizasında durdurur ve vurmaz. Ardından müthiş bir tokatla onu atından düşürür; kılıcını kınına koyup erlerine Kalanoz'u öldürüp gömmelerini emreder.
 
 ---
 
@@ -77,4 +77,4 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 - Kontrol soruları öğrencinin kendi sunum odağının dışındadır.
 - Sorular sayı, eşya listesi veya tam alıntı ezberine dayanmaz.
 - Aydos ve Bilecik görevleri yalnız fetih anlatımı değil; karar, güven ve karakter işlevi üzerinden ayrılmıştır.
-- Bay Koca–Savcı görevi, Paket 1'deki yalnız kronoloji ölçen kontrol sorusundan farklı olarak karşılaştırmalı karakter/liderlik çözümlemesi ister.
+- Öğrenci 6'nın kontrol sorusu Paket 1'deki Bay Koca–Savcı kronoloji sorusunu tekrar etmez.
