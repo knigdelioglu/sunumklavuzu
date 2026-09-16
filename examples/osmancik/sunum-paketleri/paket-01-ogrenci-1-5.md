@@ -68,7 +68,7 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış olay ve ilişkilerden hazır
 
 **Kontrol sorusu:** Karacahisar savaşında Dündar Bey geri çekilmek isteyince ne olur?
 
-**Kontrol cevabı:** Dündar Bey Osman'a geri çekilmeyi söyler. Osman öfkelenerek geyik boynuzundan yayının ahşap kısmıyla ona vurur; Dündar Bey atından cansız düşer.
+**Kontrol cevabı:** Dündar Bey Osman'a geri çekilmeyi söyler. Osman öfkelenerek geyik boynuzundan yayını kaldırıp indirir; Dündar Bey atından cansız düşer.
 
 ## Paket içi denetim
 
