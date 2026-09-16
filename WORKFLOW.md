@@ -59,9 +59,10 @@ Aynı eserin 25-30 kez yeniden özetlenmesini önlemek için `SINIF-SUNUM-SISTEM
 1. `prompts/core/06-sinif-sunum-gorevleri.md` çalıştırılır.
 2. `{{OGRENCI_SAYISI}}` yerine gerçek sınıf mevcudu yazılır.
 3. Öğrenci sayısı kadar birbirinden farklı sunum görevi üretilir.
-4. Her görevde öğrenciden en az iki somut metin dayanağı ve eserin başka bir kısmıyla bağlantı istenir.
-5. Her öğrenci için, sunum başlığının dışından en az bir kontrol sorusu hazırlanır.
-6. Dağıtım `templates/sinif-sunum-dagitim-plani.md` düzeninde saklanabilir.
+4. Ardından `prompts/core/07-sunum-dagitim-denetimi.md` çalıştırılır; ilk dağıtımdaki ağır başlıklar, dengesiz görevler, trivia kontrol soruları ve ifade bozuklukları düzeltilir.
+5. Her görevde öğrenciden en az iki somut metin dayanağı ve eserin başka bir kısmıyla bağlantı istenir.
+6. Her öğrenci için, sunum başlığının dışından en az bir kontrol sorusu hazırlanır.
+7. Dağıtım `templates/sinif-sunum-dagitim-plani.md` düzeninde saklanabilir.
 
 Özel sunum görevi öğrencinin yalnız o kısmından sorumlu olduğu anlamına gelmez. Bütün öğrenciler eserin tamamından sorumludur.
 
