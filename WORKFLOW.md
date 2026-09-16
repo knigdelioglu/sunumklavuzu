@@ -1,12 +1,12 @@
 # Workflow
 
-Bu akışın temel ilkesi: **NotebookLM ham analizi çıkarır; nihai öğretmen kılavuzu ayrı bir sentez aşamasında oluşturulur.**
+Bu akışın temel ilkesi: **ham inceleme ayrı aşamada çıkarılır; nihai öğretmen kılavuzu daha sonra sentezlenir.**
 
 ## A. Kaynak hazırlığı
 
-1. İncelenecek eserin tam metnini NotebookLM'e yükle.
+1. İncelenecek eserin tam metnini kaynak olarak hazırla.
 2. Mümkünse tek baskı/sürüm kullan.
-3. Yardımcı kaynaklar varsa ilk analizde kapat.
+3. Yardımcı kaynaklar varsa ilk analizde devre dışı bırak.
 4. `prompts/core/00-kaynak-ve-tur-kontrolu.md` ile kaynak ve tür kontrolünü yap.
 
 ## B. Ortak analiz
@@ -20,7 +20,7 @@ Sırayla çalıştır:
 5. `04-sunum-sorulari.md`
 6. `05-oz-denetim.md`
 
-Her görevin çıktısını sakla. NotebookLM'in uzun tek görevlerde kalite kaybetmesi nedeniyle görevleri birleştirme.
+Her görevin çıktısını sakla. Uzun tek görevlerde ayrıntı ve tutarlılık kaybı yaşanabildiği için görevleri birleştirme.
 
 ## C. Tür modülü seçimi
 
@@ -35,7 +35,7 @@ Bir eser melez yapıdaysa yalnız gerçekten gerekli iki modül kullanılabilir.
 
 ## D. Son sentez
 
-NotebookLM çıktıları tek bir pakette toplanır. Son öğretmen kılavuzu şu sırayla hazırlanır:
+Analiz çıktıları tek bir pakette toplanır. Son öğretmen kılavuzu şu sırayla hazırlanır:
 
 1. 30 saniyelik öğretmen kartı
 2. Eserin yapı/akış haritası
