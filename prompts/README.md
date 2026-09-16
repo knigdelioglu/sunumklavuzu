@@ -11,8 +11,10 @@ Bu klasördeki promptlar tek tek çalıştırılmak üzere tasarlanmıştır. He
 5. `types/` içinden uygun tür modülü
 6. `core/04-sunum-sorulari.md`
 7. `core/05-oz-denetim.md`
-8. Bütün sınıf aynı eseri sunacaksa: `core/06-sinif-sunum-gorevleri.md`
-9. Dağıtım üretildikten sonra: `core/07-sunum-dagitim-denetimi.md`
+8. Bütün sınıf aynı eseri sunacaksa 5'li paketler hâlinde:
+   - `core/06a-sunum-gorevleri-5li.md`
+   - `core/06b-kontrol-sorulari-5li.md`
+   - `core/06c-paket-denetimi.md`
 
 ## Kural
 
@@ -22,16 +24,20 @@ Tür modülü seçerken eseri zorla "roman" gibi ele almayın. Olay örgüsü ol
 
 ## Sınıf sunum görevleri
 
-`06-sinif-sunum-gorevleri.md`, diğer analizler ve öz-denetim tamamlandıktan sonra çalıştırılır.
+Uzun tek üretim yerine sınıfı en fazla 5 öğrencilik paketlere ayırın.
 
-Prompt içindeki:
+Örnek 30 kişilik sınıf:
 
-```text
-{{OGRENCI_SAYISI}}
-```
+`1-5 → 6-10 → 11-15 → 16-20 → 21-25 → 26-30`
 
-yerine sınıf mevcudu yazılır. Örneğin 30 kişilik sınıf için `30`.
+Her paket için aynı üç kısa adımı uygulayın:
 
-Bu adımın amacı öğrencilerin farklı kitaplar sunması değil; **aynı eseri farklı problemler ve bağlantılar üzerinden sunmasıdır.** Her öğrenci eserin tamamından sorumlu kalır.
+1. `06a-sunum-gorevleri-5li.md` ile yalnız o paketin görevlerini üretin. `{{OGRENCI_ARALIGI}}` yerine örneğin `1-5` yazın.
+2. `06b-kontrol-sorulari-5li.md` ile aynı öğrencilerin kontrol sorularını ayrı üretin.
+3. `06c-paket-denetimi.md` ile yalnız o 5 kişilik paketi denetleyip son hâline getirin.
 
-İlk dağıtım üretildikten sonra `07-sunum-dagitim-denetimi.md` ayrı bir ikinci tur olarak çalıştırılır. Bu kısa denetim; ağır başlıkları, dengesiz görevleri, konuya fazla yakın kontrol sorularını, trivia sorularını ve ifade bozukluklarını düzeltir.
+Sonraki pakete geçerken önceki görevler konuşma bağlamında kalsın. `06a` yeni görevlerin önceki paketleri tekrar etmemesini ister.
+
+Sınıf mevcudu 5'in katı değilse son paket daha küçük olabilir; örneğin 28 kişilik sınıfta son paket `26-28` olur.
+
+Bu yöntemin amacı öğrencilerin farklı kitaplar sunması değil; **aynı eseri farklı problemler ve bağlantılar üzerinden sunmasıdır.** Her öğrenci eserin tamamından sorumlu kalır.
