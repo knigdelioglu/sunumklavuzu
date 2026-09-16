@@ -6,12 +6,12 @@ Amaç, öğrencinin yapay zekâ kullanıp kullanmadığını tahmin etmek değil
 
 ## Temel yaklaşım
 
-1. Eserin kendisi NotebookLM'e kaynak olarak yüklenir.
-2. NotebookLM'e uzun tek bir prompt verilmez; `prompts/` altındaki kısa görevler sırayla çalıştırılır.
+1. Eserin tam metni kaynak olarak hazırlanır.
+2. Uzun tek bir görev yerine `prompts/` altındaki kısa analiz görevleri sırayla çalıştırılır.
 3. Önce ortak analiz görevleri uygulanır.
 4. Eser türüne göre uygun tür modülü eklenir.
-5. NotebookLM çıktıları tek dosyada toplanır.
-6. Bu ham analizlerden öğretmen için kısa, kullanılabilir bir **Sunum Kontrol Dosyası** hazırlanır.
+5. Analiz çıktıları tek dosyada toplanır.
+6. Bu ham incelemelerden öğretmen için kısa, kullanılabilir bir **Sunum Kontrol Dosyası** hazırlanır.
 7. Sunum sırasında genel özet sorularından çok; sahne, yapı, ayrıntı, bağlantı, gerekçe ve takip soruları kullanılır.
 
 ## Desteklenen eser türleri
@@ -56,9 +56,9 @@ sunumklavuzu/
 
 ## Hızlı kullanım
 
-NotebookLM'de önce `prompts/core/00-kaynak-ve-tur-kontrolu.md` çalıştırılır. Ardından ortak çekirdek promptlar sırayla uygulanır. Eserin türüne göre `prompts/types/` içinden **yalnız ilgili modül** kullanılır.
+Önce `prompts/core/00-kaynak-ve-tur-kontrolu.md` çalıştırılır. Ardından ortak çekirdek promptlar sırayla uygulanır. Eserin türüne göre `prompts/types/` içinden **yalnız ilgili modül** kullanılır.
 
-NotebookLM çıktıları mümkünse kaynak atıflarıyla dışa aktarılır. Son sentezde yalnız metnin desteklediği bilgiler kullanılmalı; belirsiz noktalar kesinleştirilmemelidir.
+Analiz çıktıları mümkünse kaynak atıflarıyla saklanır. Son sentezde yalnız metnin desteklediği bilgiler kullanılmalı; belirsiz noktalar kesinleştirilmemelidir.
 
 ## Değerlendirme ilkesi
 
