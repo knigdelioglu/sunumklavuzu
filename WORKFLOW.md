@@ -1,0 +1,79 @@
+# Workflow
+
+Bu akışın temel ilkesi: **NotebookLM ham analizi çıkarır; nihai öğretmen kılavuzu ayrı bir sentez aşamasında oluşturulur.**
+
+## A. Kaynak hazırlığı
+
+1. İncelenecek eserin tam metnini NotebookLM'e yükle.
+2. Mümkünse tek baskı/sürüm kullan.
+3. Yardımcı kaynaklar varsa ilk analizde kapat.
+4. `prompts/core/00-kaynak-ve-tur-kontrolu.md` ile kaynak ve tür kontrolünü yap.
+
+## B. Ortak analiz
+
+Sırayla çalıştır:
+
+1. `01-yapi-ve-icerik-haritasi.md`
+2. `02-ayirt-edici-ayrintilar.md`
+3. `03-baglanti-ve-kronoloji.md`
+4. Tür modülü (`prompts/types/`)
+5. `04-sunum-sorulari.md`
+6. `05-oz-denetim.md`
+
+Her görevin çıktısını sakla. NotebookLM'in uzun tek görevlerde kalite kaybetmesi nedeniyle görevleri birleştirme.
+
+## C. Tür modülü seçimi
+
+- Roman veya tek uzun kurmaca: `roman-hikaye.md`
+- Öykü kitabı: `roman-hikaye.md` içindeki öykü kitabı yönergelerini uygula.
+- Tiyatro: `tiyatro.md`
+- Şiir / şiir kitabı: `siir.md`
+- Deneme / düşünce / fikir yazıları: `deneme-dusunce.md`
+- Anı, günlük, gezi, biyografi, otobiyografi ve diğer kurmaca dışı anlatılar: `ani-biyografi-kurmaca-disi.md`
+
+Bir eser melez yapıdaysa yalnız gerçekten gerekli iki modül kullanılabilir.
+
+## D. Son sentez
+
+NotebookLM çıktıları tek bir pakette toplanır. Son öğretmen kılavuzu şu sırayla hazırlanır:
+
+1. 30 saniyelik öğretmen kartı
+2. Eserin yapı/akış haritası
+3. Temel kişi/kavram/konuşmacı haritası
+4. Kısa özetlerde kaybolan ayırt edici ayrıntılar
+5. Yüksek ayırt edicilikli soru bankası
+6. Her soruya kısa cevap ve takip sorusu
+7. 5 soruluk hazır öğrenci setleri
+8. Metne hâkimiyet rubriği
+9. Kaçınılması gereken kolay sorular
+10. Öz-denetimde düzeltilen/belirsiz noktalar
+
+## E. Soru tasarım ilkesi
+
+Güçlü soru şunlardan en az birini gerektirir:
+
+- belirli bir sahne/pasaj/şiir/bölümü hatırlama,
+- iki bölüm arasında bağlantı kurma,
+- bir kararın veya düşüncenin gerekçesini açıklama,
+- önce/sonra değişimini gösterme,
+- yan kişi/kavram/örnek üzerinden eserin bütününe dönme,
+- yorumu somut metinsel kanıtla destekleme.
+
+Zayıf soru yalnızca şunları sorar:
+
+- konu,
+- ana fikir,
+- başkahraman/yazar,
+- genel tema,
+- kitabın sonu,
+- internetteki kısa bir özetten doğrudan alınabilecek bilgiler.
+
+## F. Değerlendirme
+
+Her öğrenciye mümkünse en az üç kontrol sorusu sor:
+
+- 1 somut ayrıntı/sahne/yapı sorusu,
+- 1 bağlantı/neden-sonuç/karşılaştırma sorusu,
+- 1 yorum + metinsel dayanak sorusu.
+
+Tek cevaba dayanarak "okudu/okumadı" sonucu verme. Amaç kanıt biriktirmektir.
