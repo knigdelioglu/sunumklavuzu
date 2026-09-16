@@ -10,10 +10,12 @@ Amaç, öğrencinin yapay zekâ kullanıp kullanmadığını tahmin etmek değil
 2. Uzun tek bir görev yerine `prompts/` altındaki kısa analiz görevleri sırayla çalıştırılır.
 3. Önce ortak analiz görevleri uygulanır.
 4. Eser türüne göre uygun tür modülü eklenir.
-5. Analiz çıktıları tek dosyada toplanır.
-6. Bu ham incelemelerden öğretmen için kısa, kullanılabilir bir **Sunum Kontrol Dosyası** hazırlanır.
-7. Sunum sırasında genel özet sorularından çok; sahne, yapı, ayrıntı, bağlantı, gerekçe ve takip soruları kullanılır.
-8. Bütün sınıf aynı eseri sunacaksa `SINIF-SUNUM-SISTEMI.md` uygulanır ve görevler en fazla 5 öğrencilik paketler hâlinde hazırlanır.
+5. Analiz çıktıları tek dosyada toplanır ve kaynakla yeniden doğrulanır.
+6. Bu incelemelerden öğretmen için kısa, kullanılabilir bir **Sunum Kontrol Dosyası** hazırlanır.
+7. Bütün sınıf aynı eseri sunacaksa görevler en fazla 5 öğrencilik paketler hâlinde hazırlanır.
+8. Paketler topluca denetlenir; tekrar eden, fazla kolay/zor veya dar/geniş görevler düzeltilir.
+9. Son görevler öğrenciye verilecek sade **Sunum Görev Kartları**na dönüştürülür.
+10. Sunum sonunda öğretmen, öğrencinin kendi kartının dışından bir kontrol sorusu sorar.
 
 ## Tek eser, farklı sunumlar
 
@@ -35,7 +37,7 @@ Uzun tek üretim yerine sınıf 5'li paketlere ayrılır. Her paket için:
 
 30 kişilik örnek akış:
 
-`1-5 → 6-10 → 11-15 → 16-20 → 21-25 → 26-30`
+`1-5 → 6-10 → 11-15 → 16-20 → 21-25 → 26-30 → toplu denetim → öğrenci kartları`
 
 Ayrıntılı yöntem: [`SINIF-SUNUM-SISTEMI.md`](SINIF-SUNUM-SISTEMI.md)
 
@@ -80,11 +82,17 @@ sunumklavuzu/
 │       └── ani-biyografi-kurmaca-disi.md
 ├── templates/
 │   ├── ogretmen-sunum-kontrol-dosyasi.md
-│   └── sinif-sunum-dagitim-plani.md
+│   ├── sinif-sunum-dagitim-plani.md
+│   └── ogrenci-sunum-gorev-karti.md
 └── examples/
     └── osmancik/
         ├── README.md
-        └── ogretmen-sunum-kontrol-dosyasi.md
+        ├── kaynak-haritasi.md
+        ├── ogretmen-sunum-kontrol-dosyasi.md
+        ├── ogrenci-gorev-kartlari.md
+        └── sunum-paketleri/
+            ├── 00-genel-denetim.md
+            └── paket-01 ... paket-06
 ```
 
 ## Hızlı kullanım
@@ -93,7 +101,9 @@ sunumklavuzu/
 
 Analiz çıktıları mümkünse kaynak atıflarıyla saklanır. Son sentezde yalnız metnin desteklediği bilgiler kullanılmalı; belirsiz noktalar kesinleştirilmemelidir.
 
-Bütün sınıf aynı eseri sunacaksa analiz ve öz-denetim tamamlandıktan sonra her 5'li öğrenci paketi için `06a → 06b → 06c` sırası uygulanır.
+Bütün sınıf aynı eseri sunacaksa analiz ve öz-denetim tamamlandıktan sonra her 5'li öğrenci paketi için `06a → 06b → 06c` sırası uygulanır. Bütün paketler tamamlanınca görevler birlikte yeniden denetlenir ve öğrenciye dağıtılacak sürüm `templates/ogrenci-sunum-gorev-karti.md` yapısına dönüştürülür. Öğrenci kartında öğretmen kontrol sorusunun cevabı bulunmaz.
+
+Kaynak-doğrulamalı tam örnek için: [`examples/osmancik/README.md`](examples/osmancik/README.md)
 
 ## Değerlendirme ilkesi
 
