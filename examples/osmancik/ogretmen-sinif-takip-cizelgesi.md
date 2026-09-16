@@ -43,7 +43,7 @@ Ayrıntılı puan açıklamaları için: [`../../templates/sinif-sunum-puanlama-
 | 26 |  | Bilecik: Güvenden Düşmanlığa |  |  |  |  |  |
 | 27 |  | Haberi Doğrulamak ve Karara Dönüştürmek |  |  |  |  |  |
 | 28 |  | Ayna Melek: Kayıptan Sonra Hayatı Sürdürmek |  |  |  |  |  |
-| 29 |  | Eski Gazilerden Yeni Kuşağa |  |  |  |  |  |  |
+| 29 |  | Eski Gazilerden Yeni Kuşağa |  |  |  |  |  |
 | 30 |  | Geçmişi Öğrenerek Yönünü Bulmak |  |  |  |  |  |
 
 ---
@@ -76,9 +76,9 @@ Ayrıntılı puan açıklamaları için: [`../../templates/sinif-sunum-puanlama-
 **Beklenen cevap:** Dündar Bey geri çekilmeyi ister. Osman öfkelenip geyik boynuzundan yayını kaldırıp indirir; Dündar Bey atından cansız düşer.
 
 ## 6
-**Soru:** Bay Koca ile Savcı Bey'in şehadetleri arasında nasıl bir benzerlik vardır ve olaylar hangi sırayla gerçekleşir?
+**Soru:** İkizce'de Osman Bey, Kalanoz'u nasıl etkisiz hâle getirir ve onu kendi kılıcıyla öldürür mü?
 
-**Beklenen cevap:** Bay Koca önce Ermeni Beli'nde, Savcı Bey daha sonra İkizce'de Kalanoz'a saldırırken benzer biçimde şehit olur. Her ikisi de Kalanoz tarafından öldürülür.
+**Beklenen cevap:** Kalanoz'un kılıcını düşürür, kendi kılıcını boynu hizasında durdurur ve vurmaz. Ardından tokatla onu atından düşürür; erlerine öldürüp gömmelerini emreder.
 
 ## 7
 **Soru:** İtburnu Tekkesi'ndeki Selçuklu ve Bizans sikkeleri neden odalarda açıkta tutulur ve Osman bu uygulamadan hangi yönetim ilkesini çıkarır?
@@ -136,19 +136,19 @@ Ayrıntılı puan açıklamaları için: [`../../templates/sinif-sunum-puanlama-
 **Beklenen cevap:** Rahman'a gizlice haber gönderir, kuşatmanın kalkmış gibi gösterilmesini ister, gece urgan indirerek erleri kaleye çıkarır ve onları kapıya götürür.
 
 ## 18
-**Soru:** Osman Gazi Hân pazar vergisi ve tımar konusunda yöneticinin yetkisini hangi iki kuralla sınırlar?
+**Soru:** Osman Gazi Hân öldüğünde cenazesi neden hemen Bursa'daki Gümüşlü Kubbe'ye götürülmez?
 
-**Beklenen cevap:** Malını satamayan kişiden vergi alınmamasını; verilen tımarın sebepsiz geri alınmamasını ve sahibinin ölümünden sonra oğluna geçmesini ister.
+**Beklenen cevap:** Osman Bursa'da Gümüşlü Kubbe'nin altına gömülmek istemiştir; ancak Orhan Bey “Bursa'ya vakit gerek” der. Bu nedenle cenaze önce Söğüt'e götürülür.
 
 ## 19
-**Soru:** Yarhisar alındıktan sonra Holofira'ya nasıl bir seçim hakkı tanınır ve o neyi seçer?
+**Soru:** Savcı Bey'in şehadetinden sonra Ayna Melek, babasının kendisini götürme isteğine nasıl cevap verir ve neden?
 
-**Beklenen cevap:** İsterse babasıyla gitme, isterse kalma hakkı verilir. Holofira kendi isteğiyle kalıp Orhan'ın ailesini seçer; daha sonra Nilüfer adını alır.
+**Beklenen cevap:** Savcı Bey'in evini ve çadırını bırakmayacağını söyler. Bânu Çiçek'in babasının evinden gelin çıkmasını ister ve doğacak çocuğunu da burada büyütmeye kararlıdır.
 
 ## 20
-**Soru:** Dursun Fakı'nın Osman Gazi Hân adına hutbe okumasından önce neden kardeş boyların beylerinin görüşü alınır?
+**Soru:** İnegöl fethinden sonra halk Aya Nikola'ya saldırmak isterken Osman Bey nasıl davranır?
 
-**Beklenen cevap:** Törede önemli bir değişiklik yapılacağı için ortak rıza aranır; kardeş boylar ve Ertuğrul Gazi'nin yoldaşları onay verdikten sonra hutbe ve kadılık düzenine geçilir.
+**Beklenen cevap:** Halkın onu linç etmesine izin vermez. Aya Nikola'yı sokaklarda gezdirip ardından serbest bırakılmasını emreder; ailesi varsa onların da yanına katılmasını söyler.
 
 ## 21
 **Soru:** İnegöl fethinden sonra Osman Bey kendisine sunulan değerli taşlarla süslü kılıcı neden kabul etmez?
