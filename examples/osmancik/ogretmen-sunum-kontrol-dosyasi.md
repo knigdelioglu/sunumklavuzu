@@ -83,23 +83,17 @@
 - Gökçe Bacı'nın saman arabalarıyla Bilecik'e sızması
 - Orhan ile Holofira'nın Yeğli Pazarı'ndaki ilk karşılaşması
 
-## Örnek Takip Sorusu Zincirleri
+## Sunum Soruları — Örnek
 
-### Mihail Kosses
+| Soru | Cevap | Takip sorusu | Takip cevabı |
+|---|---|---|---|
+| Mihail Kosses'in ihtida sürecinde Cankız'ın cenazesi neden önemlidir? | Türklerin ölüm karşısındaki iman, vakar ve metaneti onu derinden etkiler; mezara toprak atar. | Müslüman olduğunu daha sonra nerede ve hangi isimle açıklar? | Sivrikaya'da Osman Bey'e Müslüman olduğunu bildirir ve Abdullah adını alır. |
+| İtburnu Tekkesi'ndeki sikkelerin işlevi nedir? | Darda kalan konuğun kimseden istemeden ihtiyacı kadar alabilmesidir. | Aynı odada Mushaf'la ilgili Ertuğrul Gazi'ye dair hangi olay anlatılır? | Mushaf'a hürmet ederek sabaha kadar ayakta kaldığı ve sabaha karşı kutlu rüyayı gördüğü anlatılır. |
+| Bay Koca ile Savcı Bey'in şehadet sırası nedir? | Önce Bay Koca Ermeni Beli'nde, sonra Savcı Bey İkizce/Domaniç Beli'nde şehit olur. | Kalanoz bu iki olayın hangilerinde rol oynar? | İkisinde de rol oynar; Bay Koca'yı Ermeni Beli'nde, Savcı Bey'i İkizce'de öldürür. |
+| Bilecik düğün tuzağına karşı kale içeriden nasıl ele geçirilir? | Erler saman arabalarında gizlenir; Gökçe Bacı kafileyle kaleye girer ve kapıyı tutar. | Bu operasyonda kim şehit olur? | Gökçe Bacı. |
+| Romanın başındaki Osmancık ile sonundaki Osman Gazi Hân arasındaki temel zihniyet farkı nedir? | İlkinde güç şahsi benlik ve gurur için; sonunda boy, toplum, adalet ve devlet ülküsü için kullanılır. | Bu dönüşümü kanıtlayan iki farklı sahne söyle. | Kosses'lerin evinde öfkesini dizginlemesi ve son bölümde Bursa müjdesini şükürle karşılayıp yönetimi Orhan'a devretmesi örnek verilebilir. |
 
-**Ana soru:** Mihail Kosses neden Osman'ın yanında yer almaya başladı?  
-**Takip 1:** Bunu başlatan belirli bir sahne söyle.  
-**Takip 2:** Cankız'ın cenazesinde ne yaptı?  
-**Takip 3:** Müslüman olduğunu nerede ve hangi adla açıkladı?
-
-### Osmancık'ın dönüşümü
-
-**Ana soru:** Romanın başındaki Osmancık ile sonundaki Osman arasındaki temel fark nedir?  
-**Takip 1:** Bu değişimin ilk somut işaretini hangi sahnede görürüz?  
-**Takip 2:** Malhun Hatun ve Ede Balı bu süreçte nasıl farklı roller üstlenir?  
-**Takip 3:** Son bölümden dönüşümün tamamlandığını gösteren bir ayrıntı söyle.
-
-## Hazır 5 Soruluk Set
+## Hazır Soru Grubu
 
 1. İtburnu Tekkesi'ndeki sikkelerin işlevi nedir?
 2. Gökçe Bacı'nın ördek yavruları meseli neyi anlatır?
