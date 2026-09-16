@@ -9,8 +9,7 @@
 
 ### En ayırt edici 5-8 soru
 1. **Soru:**  
-   **Kısa cevap:**  
-   **Takip:**
+   **Cevap:**  
 
 ## 2. Yapı / Akış Haritası
 
@@ -37,22 +36,26 @@ Eser türüne uygun olanları listele.
 
 Yalnız anlamlı ve metne hâkimiyeti gösteren ayrıntıları seç.
 
-## 5. Yüksek Ayırt Edicilikli Soru Bankası
+## 5. Sunum Soruları
 
-| Kod | Tür | Soru | Beklenen kısa cevap | Takip sorusu | Kaynak |
-|---|---|---|---|---|---|
-| S01 | | | | | |
+Soruları görünür kategorilere ayırma. Öğretmenin kullanacağı tablo sade olsun:
 
-## 6. Hazır 5 Soruluk Öğrenci Setleri
+| Soru | Cevap | Takip sorusu | Takip cevabı |
+|---|---|---|---|
+| | | | |
 
-### Set A
+Takip cevabı mutlaka yazılmalıdır. Birden fazla makul cevap varsa kısa biçimde kabul edilebilir seçenekleri belirt.
+
+## 6. Hazır Soru Grupları
+
+### Soru Grubu A
 - 
 - 
 - 
 - 
 - 
 
-Her sette mümkünse eserin farklı kısımlarını ve farklı soru türlerini kullan.
+Her grupta mümkünse eserin farklı kısımlarını ve farklı soru biçimlerini kullan. Kod veya kategori etiketi gösterme.
 
 ## 7. Değerlendirme Rubriği
 
