@@ -7,6 +7,11 @@ Bu klasör, yöntemin ilk örnek uygulamasını kaydeder.
 - **Yazar:** Tarık Buğra
 - **Tür:** Roman
 - **Kullanılan tür modülü:** `prompts/types/roman-hikaye.md`
+- **Doğrudan PDF doğrulaması:** [`kaynak-haritasi.md`](kaynak-haritasi.md)
+
+## Kaynak önceliği
+
+Bu örnekte bundan sonraki soru bankası ve öğrenci görevleri için `kaynak-haritasi.md` esas alınır. Bu dosya Drive'daki roman PDF'sinin doğrudan okunmasıyla hazırlanmıştır; önceki yardımcı analizlerle çelişen noktalarda roman metni belirleyicidir.
 
 ## Bu örnekte iyi çalışan kontrol alanları
 
@@ -14,7 +19,7 @@ Bu klasör, yöntemin ilk örnek uygulamasını kaydeder.
 - Şeyh Ede Balı'nın dönüşümdeki rolü
 - Malhun Hatun'un yalnız aşk unsuru değil, sabır ve töre sınavındaki işlevi
 - Mihail Kosses'in dönüşümünün tek olay değil süreç olarak izlenmesi
-- Bay Koca ve Savcı Bey şehadetlerinin kronolojik ayrımı
+- Bay Koca, Savcı Bey ve Aydoğdu şehadetlerinin kronolojik ve bağlamsal ayrımı
 - Gündüz Bey / Dündar Bey ayrımı
 - Holofira/Nilüfer ile Evdoksiya/Sâniye ayrımı
 
@@ -24,19 +29,17 @@ Bu klasör, yöntemin ilk örnek uygulamasını kaydeder.
 - Kosses'lerin evinde Zoe'nin bakışının Osmancık'ın öfkesini dizginlemesinde rol oynaması
 - Gökçe Bacı'nın kuluçkadaki tavuk ve ördek yavruları benzetmesi
 - Cankız'ın cenazesinde Mihail Kosses'in mezara toprak atması
-- Gökçe Bacı'nın Bilecik'e saman arabalarındaki erlerle sızması
-- Orhan ile Holofira'nın Yeğli Pazarı'ndaki ilk karşılaşması
+- Gökçe Bacı'nın Bilecik'e arabalar içindeki gizli erlerle sızması
+- Orhan ile Holofira'nın Yeğli Pazarı'ndaki yakınlaşması
 
-## Öz-denetimin önemi
+## PDF doğrulamasında düzeltilen kritik noktalar
 
-Son öz-denetim turu önceki bazı tespitleri düzeltti. Bu örnek, `core/05-oz-denetim.md` adımının atlanmaması gerektiğini gösterir.
-
-Özellikle:
-
-- Kalanoz'un ölüm biçimi önceki analizde eksik/yanlış ifade edilmişti.
-- Dündar Bey olayının ayrıntısı düzeltildi.
-- Romanın özgün yapısının 6 ana bölümden oluştuğu netleştirildi.
-- Kesin takvim yılları ve bazı yaş bilgileri `BELİRSİZ` bırakıldı.
+- Kalanoz'u Osman kılıçla öldürmez; tokatla atından düşürür ve erlerine cezalandırma emri verir.
+- Dündar Bey, Karacahisar savaşında Osman'ın yayının ahşap kısmıyla vurmasından sonra atından **cansız** düşer.
+- Mihail Kosses Aydos'tan sonra Dursun Fakı önünde kelime-i şehadet getirir; Köse Mihal adı korunur, Abdullah ikinci adı olur.
+- Aydoğdu'nun Koyun Hisarı'nda şehit olması romanda açıkça yer alır.
+- Osman Gazi Hân'ın naaşı romanın sonunda hemen Gümüşlü Kubbe'ye götürülmez; Orhan “Bursa'ya vakit gerek” der ve cenaze Söğüt'e götürülür.
+- Romanın özgün yapısı 6 ana bölümdür.
 
 ## Ders sırasında kullanılabilecek örnek takip zinciri
 
@@ -46,6 +49,8 @@ Son öz-denetim turu önceki bazı tespitleri düzeltti. Bu örnek, `core/05-oz-
 
 **Sonra:** Cankız'ın cenazesinde ne yaptı?
 
-**Sonra:** Müslüman olduğunu ne zaman ve hangi adla açıkladı?
+**Sonra:** Aydos'ta elçi Abdullah'ın ölümü Mihail'i nasıl etkiledi?
 
-Bu yapı, öğrencinin yalnızca "Türklerin adaletinden etkilendi" gibi genel bir özet cümlesiyle kalıp kalmadığını hızlıca gösterir.
+**Sonra:** Müslüman oluşu hangi aşamalarla tamamlandı?
+
+Bu yapı, öğrencinin yalnızca “Türklerin adaletinden etkilendi” gibi genel bir özet cümlesiyle kalıp kalmadığını hızlıca gösterir.
