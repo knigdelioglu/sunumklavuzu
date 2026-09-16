@@ -12,6 +12,7 @@ Bu klasördeki promptlar tek tek çalıştırılmak üzere tasarlanmıştır. He
 6. `core/04-sunum-sorulari.md`
 7. `core/05-oz-denetim.md`
 8. Bütün sınıf aynı eseri sunacaksa: `core/06-sinif-sunum-gorevleri.md`
+9. Dağıtım üretildikten sonra: `core/07-sunum-dagitim-denetimi.md`
 
 ## Kural
 
@@ -32,3 +33,5 @@ Prompt içindeki:
 yerine sınıf mevcudu yazılır. Örneğin 30 kişilik sınıf için `30`.
 
 Bu adımın amacı öğrencilerin farklı kitaplar sunması değil; **aynı eseri farklı problemler ve bağlantılar üzerinden sunmasıdır.** Her öğrenci eserin tamamından sorumlu kalır.
+
+İlk dağıtım üretildikten sonra `07-sunum-dagitim-denetimi.md` ayrı bir ikinci tur olarak çalıştırılır. Bu kısa denetim; ağır başlıkları, dengesiz görevleri, konuya fazla yakın kontrol sorularını, trivia sorularını ve ifade bozukluklarını düzeltir.
