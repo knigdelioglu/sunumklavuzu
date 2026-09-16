@@ -15,6 +15,24 @@ Bu nedenle:
 - hiçbir öğrenci yalnız kendi başlığını okuyarak sunumu geçemez,
 - öğretmenin sunum sonundaki kontrol soruları eserin herhangi bir bölümünden gelebilir.
 
+## Görevleri 5'li paketler hâlinde üret
+
+Uzun tek üretimde son maddelerde tekrar, dengesiz görev ve zayıf kontrol sorusu riski arttığı için bütün sınıfın görevleri tek seferde üretilmez.
+
+Sınıf en fazla 5 öğrencilik paketlere ayrılır. Örneğin 30 kişilik sınıf:
+
+`1-5 → 6-10 → 11-15 → 16-20 → 21-25 → 26-30`
+
+Her paket üç kısa adımda hazırlanır:
+
+1. `06a-sunum-gorevleri-5li.md` — yalnız o 5 öğrencinin sunum görevlerini üretir.
+2. `06b-kontrol-sorulari-5li.md` — aynı 5 öğrenci için sunum konusunun dışından kontrol soruları üretir.
+3. `06c-paket-denetimi.md` — yalnız bu paketi dil, tekrar, zorluk dengesi ve soru kalitesi açısından düzeltir.
+
+Sonraki pakete geçerken önceki paketler konuşma bağlamında bırakılır. Yeni görevler önceki görevleri tekrar etmemeli ve mümkünse eserin daha az kullanılan kısımlarına yönelmelidir.
+
+Sınıf mevcudu 5'in katı değilse son paket daha küçük tutulur. Örneğin 28 kişilik sınıfta son paket `26-28` olur.
+
 ## Ders akışı
 
 ### 1. Ortak çerçeve bir kez verilir
@@ -99,7 +117,7 @@ Kaçınılması gereken dağılımlar:
 - yalnız tek bir sayfa veya sahneyi bilmenin yeterli olduğu görevler oluşturmak,
 - kısa internet özetinden doğrudan cevaplanabilecek başlıklar vermek.
 
-## 30 öğrenci için görev çeşitliliği
+## Görev çeşitliliği
 
 30 kişilik bir sınıfta görevlerin tamamı 30 ayrı karakter olmak zorunda değildir. Aynı karakter veya olay, **gerçekten farklı bir problem üzerinden** birden fazla öğrencide yer alabilir.
 
