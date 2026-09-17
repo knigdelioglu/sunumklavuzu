@@ -24,9 +24,9 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış kişi, olay ve ilişkilerden
 
 **Kaynak yönü:** Roman boyunca Mümtaz'ın resim, musiki ve tarih üzerinden kurduğu benzetmeler; Dördüncü Bölümde hamal/Puget düşüncesi ve Suat hayaliyle konuşma.
 
-**Kontrol sorusu:** Nuran ile Mümtaz'ın nikâh hazırlıkları sırasında Suat korkusu hangi iki somut işaretle geri döner?
+**Kontrol sorusu:** Mümtaz'ın eski kitapçıdan Şakayık-ı Numaniye ile zeylini alması, geçmişe ilgisinin yalnız nostalji olmadığını nasıl gösterir?
 
-**Kontrol cevabı:** Emirgan'daki son günlerde ikisi de Suat'ı düşünmekten kurtulamaz; İstanbul'a dönüş gecesinde hem Nuran hem Mümtaz Suat'la ilgili sıkıntılı rüyalar görür. Eve vardıklarında bu korkunun gerçek karşılığıyla, Suat'ın intiharıyla karşılaşırlar.
+**Kontrol cevabı:** Mümtaz eski eserleri yalnız güzel veya eski oldukları için toplamaya çalışmaz; onları tarih, kültür ve bugün arasında bağ kurmak için okur ve araştırır. Kitapçıya uğraması ve tarihî kaynaklarla sürekli çalışması, geçmişi yaşayan bir bilgi alanı olarak gördüğünü gösterir.
 
 ---
 
