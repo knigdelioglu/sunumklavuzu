@@ -64,48 +64,24 @@ sunumklavuzu/
 ├── WORKFLOW.md
 ├── SINIF-SUNUM-SISTEMI.md
 ├── prompts/
-│   ├── README.md
-│   ├── core/
-│   │   ├── 00-kaynak-ve-tur-kontrolu.md
-│   │   ├── 01-yapi-ve-icerik-haritasi.md
-│   │   ├── 02-ayirt-edici-ayrintilar.md
-│   │   ├── 03-baglanti-ve-kronoloji.md
-│   │   ├── 04-sunum-sorulari.md
-│   │   ├── 05-oz-denetim.md
-│   │   ├── 06a-sunum-gorevleri-5li.md
-│   │   ├── 06b-kontrol-sorulari-5li.md
-│   │   └── 06c-paket-denetimi.md
-│   └── types/
-│       ├── roman-hikaye.md
-│       ├── tiyatro.md
-│       ├── siir.md
-│       ├── deneme-dusunce.md
-│       └── ani-biyografi-kurmaca-disi.md
 ├── templates/
-│   ├── ogretmen-sunum-kontrol-dosyasi.md
-│   ├── sinif-sunum-dagitim-plani.md
-│   ├── ogrenci-sunum-gorev-karti.md
-│   └── sinif-sunum-puanlama-cizelgesi.md
 └── examples/
     ├── osmancik/
-    │   ├── README.md
-    │   ├── kaynak-haritasi.md
-    │   ├── ogretmen-sunum-kontrol-dosyasi.md
-    │   ├── ogretmen-sinif-takip-cizelgesi.md
-    │   ├── ogrenci-gorev-kartlari.md
-    │   └── sunum-paketleri/
-    │       ├── 00-genel-denetim.md
-    │       └── paket-01 ... paket-06
-    └── huzur/
-        ├── README.md
-        ├── kaynak-haritasi.md
-        ├── ogretmen-sunum-kontrol-dosyasi.md
-        ├── ogretmen-sinif-takip-cizelgesi.md
-        ├── ogrenci-gorev-kartlari.md
-        └── sunum-paketleri/
-            ├── 00-genel-denetim.md
-            └── paket-01 ... paket-06
+    ├── huzur/
+    └── uzun-hikaye/
 ```
+
+Her tamamlanmış örnek klasöründe:
+
+- `README.md`
+- `kaynak-haritasi.md`
+- `ogretmen-sunum-kontrol-dosyasi.md`
+- `ogretmen-sinif-takip-cizelgesi.md`
+- `ogrenci-gorev-kartlari.md`
+- `sunum-paketleri/00-genel-denetim.md`
+- `sunum-paketleri/paket-01 ... paket-06`
+
+bulunur.
 
 ## Hızlı kullanım
 
@@ -121,8 +97,9 @@ Ders sırasında `templates/sinif-sunum-puanlama-cizelgesi.md` yapısı kullanı
 
 - [`Osmancık`](examples/osmancik/README.md)
 - [`Huzur`](examples/huzur/README.md)
+- [`Uzun Hikâye`](examples/uzun-hikaye/README.md)
 
-Her iki örnekte de kaynak haritası, 30 öğrenciye farklı sunum görevi, paketler arası denetim, öğrenci görev kartları, öğretmen kontrol soruları ve 30 kişilik takip/puanlama çizelgesi hazırdır.
+Her üç örnekte de kaynak haritası, 30 öğrenciye farklı sunum görevi, paketler arası denetim, öğrenci görev kartları, öğretmen kontrol soruları ve 30 kişilik takip/puanlama çizelgesi hazırdır.
 
 ## Değerlendirme ilkesi
 
