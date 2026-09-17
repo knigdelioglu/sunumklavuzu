@@ -26,13 +26,13 @@
 | 15 |  | Konya çarşısında ahilik | Eski İstanbul'un müşterek hayatının çözülmesinde hangi değişmeler rol oynar? |  |  |  |  |  |
 | 16 |  | Şems sonrası Mevlânâ | Musiki Muallim Mektebi yeni Ankara açısından neden önemlidir? |  |  |  |  |  |
 | 17 |  | Semaın sembolik dili | Atatürk, Tanpınar'ın medreselerle ilgili kesin cevabına nasıl karşılık verir ve neden önemlidir? |  |  |  |  |  |
-| 18 |  | Sema ve gündelik hayat | İstanbul'un bir kişi için “sular”, başka biri için “camiler ve sesler” şehri olması neyi gösterir? |  |  |  |  |  |
+| 18 |  | Sema ve gündelik hayat | Valide-i Cedid Camii ile Tâbi Mustafa Efendi'nin musikisini Tanpınar neden birlikte düşünür? |  |  |  |  |  |
 | 19 |  | Bursa'da ikinci zaman | Konya'da ahilik neden yalnız esnaf teşkilâtı sayılamaz? |  |  |  |  |  |
 | 20 |  | Osman Gazi rüyası | Yemen ve gurbet türküleri niçin “Anadolu'nun iç romanı” sayılabilir? |  |  |  |  |  |
 | 21 |  | Aziz Efendi'nin çeşmeleri | Erdede Sultan hikâyesi Tanpınar'ın Ankara anlayışına ne katar? |  |  |  |  |  |
 | 22 |  | Yeşil Cami | Mevlevi selâmı ve sema insana ilişkin hangi temel düşünceyi taşır? |  |  |  |  |  |
 | 23 |  | Hüdavendigâr'da hatıra | Erzurum'da kervan yolu sönünce neden yalnız ticaret kaybolmaz? |  |  |  |  |  |
-| 24 |  | Su sesinden görünmeyen şehir | İstanbul'da yabancı eşyanın yerli hayata girmesine iki somut örnek ver. |  |  |  |  |  |
+| 24 |  | Su sesinden görünmeyen şehir | İstanbul'da Tanpınar neden bütün şehir hatıralarının aynen korunamayacağını söyler; buna rağmen neyi eleştirir? |  |  |  |  |  |
 | 25 |  | İstanbul'un farklı çehreleri | Bursa'da tarihî yapı ile kişisel hatıranın birleşmesine Hüdavendigâr Camii'nden örnek ver. |  |  |  |  |  |
 | 26 |  | Eşyanın İstanbul'a ait olması | Mevlevi âyininde iki hareketin sembolik anlamını açıkla. |  |  |  |  |  |
 | 27 |  | Mahalle ve müşterek hayat | Malazgirt, İstanbul'un fethi ve İstiklâl Savaşı Ankara bölümünün sonunda hangi ortak düşüncede birleşir? |  |  |  |  |  |
@@ -59,13 +59,13 @@
 15. İktisadi değişme, ortak zevkin zayıflaması, dışarıdan gelen modalar, apartmanlaşma ve sinema gibi yeni alışkanlıklar.
 16. Eski biçimleri yalnız taklit etmeyip modern malzemeyle yeni bir terkip arayışına örnek olması.
 17. “O kadar emin olmayın” diyerek toplumsal değişmenin sonuçlarının kolay hesaplanamayacağını hatırlatır.
-18. Aynı şehrin insanın hafıza ve inancına göre başka başka anlamlar kazanabildiğini.
+18. İkisini aynı devrin zevkini ve duyarlığını farklı sanatlarda taşıyan iki ifade olarak görür; mimari ile musiki birbirini açıklar.
 19. Zanaat/çarşı düzeni yanında toplumsal ve siyasi krizlerde de etkili bir şehir gücü olduğu için.
 20. Resmî tarihin dışında askerlik, ayrılık, gurbet ve yoksulluk acılarını halkın sesiyle taşıdıkları için.
 21. Tarih ile rüya, menkıbe ve hayalin şehir hafızasında birlikte yaşayabildiğini gösterir.
 22. İnsan insanda ilahî olanı görür; hareketler manevi anlam taşıyan bir dil kurar.
 23. Yola bağlı meslekler, esnaf düzeni ve gündelik yaşayışla birlikte bütün bir hayat biçimi çözülür.
-24. İngiliz kumaşı/sofu, Fransız üslûbu konsol, Bohemya lambası veya Avrupa saati gibi örnekler verilebilir.
+24. Şehirlerin yüzyıllar içinde değişmesini doğal ve kaçınılmaz bulur; fakat çok yakın geçmişe ait yalı, konak ve şehir dokusunun da hızla silinmesini eleştirir.
 25. Tanpınar yıllar önce camide gördüğü bir çocuğun tebessümünü yeniden bulmayı düşünür; mekân kişisel hatırayla yeniden anlamlanır.
 26. Örneğin hırkaya bürünme ölüm; ilk ney sesi uyanış/haşir; kol açma ve ayak kilitleme de ayrı manevi semboller taşır.
 27. Milletin kendisini yeniden kurduğu yaratıcı hamleler ve büyük tarihî rüyalar zincirinde.
