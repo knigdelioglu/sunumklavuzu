@@ -18,9 +18,9 @@
 
 **Sunumunda:** Yeşil Cami'den ve Emir Sultan Türbesi karşılaştırmasından somut ayrıntılar kullan.
 
-**Kontrol sorusu:** Konya'da Şems'in gelişi Mevlânâ'nın hayatını hangi yönde değiştirir?
+**Kontrol sorusu:** Mevlevi selâmı ve sema insana ilişkin hangi temel düşünceyi taşır?
 
-**Kontrol cevabı:** Mevlânâ'yı yalnız büyük bir âlim ve müderris kimliğinden çıkarıp cezbe, sema ve şiir merkezli daha serbest ve dönüştürücü bir hayata yöneltir.
+**Kontrol cevabı:** İnsan insanda ilahî olanı görür; selâm ve semadaki hareketler bu manevi bakışı görünür kılar.
 
 ---
 
@@ -42,9 +42,9 @@
 
 **Sunumunda:** Su sesi, ikinci zaman ve sanatın aynası düşüncelerini en az iki somut pasaj ilişkisiyle açıkla.
 
-**Kontrol sorusu:** İstanbul'da dışarıdan gelen bir eşyanın “Müslümanlaşması” ne anlama gelir?
+**Kontrol sorusu:** İstanbul bölümünde Tanpınar neden bütün şehir hatıralarının aynen korunmasının imkânsız olduğunu söyler; buna rağmen neyi eleştirir?
 
-**Kontrol cevabı:** Yabancı üretim eşyanın yerli ev düzeni, zevk, musiki, mimari ve gündelik hayat içine girerek İstanbul'un kendi kültürel terkibinin parçası hâline gelmesidir.
+**Kontrol cevabı:** Şehirlerin yüzyıllar içinde değişmesini doğal ve kaçınılmaz bulur; fakat çok yakın geçmişe ait yalı, konak ve şehir dokusunun da hızla silinmesini eleştirir.
 
 ---
 
@@ -54,6 +54,6 @@
 
 **Sunumunda:** En az iki farklı kişinin İstanbul algısını kullan ve bu farkı “şehir herkese farklı görünür” cümlesinin ötesine taşı.
 
-**Kontrol sorusu:** Bursa'daki “ikinci zaman” fikrini şehirde hangi tür unsurlar görünür hâle getirir?
+**Kontrol sorusu:** Hüdavendigâr Camii'ndeki eski tebessüm hatırası kişisel hafıza ile tarihî mekânın ilişkisini nasıl gösterir?
 
-**Kontrol cevabı:** Türbe, cami, han, mezar taşı, çınar, çeşme ve su sesi gibi tarihî ve duyusal unsurlar geçmişi gündelik zamanın yanında yaşamaya devam ettirir.
+**Kontrol cevabı:** Tanpınar yıllar önce camide gördüğü bir çocuğun tebessümünü mekânın havasına bağlar; tarihî yapı kişisel hatıra sayesinde yeniden canlanır, fakat hatıra kişiye bağlı olduğu için kırılgandır.
