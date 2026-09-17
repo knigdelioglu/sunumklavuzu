@@ -24,9 +24,9 @@ Bu paket doğrudan roman PDF'sindeki doğrulanmış kişi, olay ve ilişkilerden
 
 **Kaynak yönü:** İkinci Bölüm; Nuran'ın annesi ve Fatma'nın yanına döndüğünde değişen tavrı, Mümtaz'la bu bölünmüşlük üzerine konuşmaları.
 
-**Kontrol sorusu:** Ferahfeza ayininde ney ve musiki neden “hasret” düşüncesiyle ilişkilendirilir?
+**Kontrol sorusu:** Mümtaz'ın “İhsan Bey Adası” diye düşündüğü evde insanların kişisel merak ve tuhaflıklarına nasıl yaklaşılır; bunun evin saadetiyle ne ilgisi vardır?
 
-**Kontrol cevabı:** Mümtaz musikiyi, kaybolan veya erişilemeyen bir bütünü arama tecrübesi gibi düşünür. Neyin sesi mevcut olmayanın izinden gider; Ferahfeza da ayrılma, arama, kaybolma ve yeniden yaklaşma hareketleriyle bu hasreti büyütür.
+**Kontrol cevabı:** İhsan'ın kurduğu düzende insanların küçük merakları, fantezileri ve farklılıkları çoğu zaman hoşgörü ve tebessümle karşılanır. Mümtaz bu saadetin kendiliğinden oluşmadığını, İhsan'ın yıllar boyunca insanlara yaşayacak alan açarak onu adım adım kurduğunu düşünür.
 
 ---
 
