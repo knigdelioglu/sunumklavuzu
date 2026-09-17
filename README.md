@@ -68,7 +68,8 @@ sunumklavuzu/
 └── examples/
     ├── osmancik/
     ├── huzur/
-    └── uzun-hikaye/
+    ├── uzun-hikaye/
+    └── gul-yetistiren-adam/
 ```
 
 Her tamamlanmış örnek klasöründe:
@@ -98,8 +99,9 @@ Ders sırasında `templates/sinif-sunum-puanlama-cizelgesi.md` yapısı kullanı
 - [`Osmancık`](examples/osmancik/README.md)
 - [`Huzur`](examples/huzur/README.md)
 - [`Uzun Hikâye`](examples/uzun-hikaye/README.md)
+- [`Gül Yetiştiren Adam`](examples/gul-yetistiren-adam/README.md)
 
-Her üç örnekte de kaynak haritası, 30 öğrenciye farklı sunum görevi, paketler arası denetim, öğrenci görev kartları, öğretmen kontrol soruları ve 30 kişilik takip/puanlama çizelgesi hazırdır.
+Her dört örnekte de kaynak haritası, 30 öğrenciye farklı sunum görevi, paketler arası denetim, öğrenci görev kartları, öğretmen kontrol soruları ve 30 kişilik takip/puanlama çizelgesi hazırdır.
 
 ## Değerlendirme ilkesi
 
