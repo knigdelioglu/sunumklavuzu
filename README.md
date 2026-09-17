@@ -87,7 +87,16 @@ sunumklavuzu/
 │   ├── ogrenci-sunum-gorev-karti.md
 │   └── sinif-sunum-puanlama-cizelgesi.md
 └── examples/
-    └── osmancik/
+    ├── osmancik/
+    │   ├── README.md
+    │   ├── kaynak-haritasi.md
+    │   ├── ogretmen-sunum-kontrol-dosyasi.md
+    │   ├── ogretmen-sinif-takip-cizelgesi.md
+    │   ├── ogrenci-gorev-kartlari.md
+    │   └── sunum-paketleri/
+    │       ├── 00-genel-denetim.md
+    │       └── paket-01 ... paket-06
+    └── huzur/
         ├── README.md
         ├── kaynak-haritasi.md
         ├── ogretmen-sunum-kontrol-dosyasi.md
@@ -108,7 +117,12 @@ Bütün sınıf aynı eseri sunacaksa analiz ve öz-denetim tamamlandıktan sonr
 
 Ders sırasında `templates/sinif-sunum-puanlama-cizelgesi.md` yapısı kullanılabilir. **Sunum görevi**, **kontrol sorusu** ve **genel metin hâkimiyeti** ayrı ayrı 0–4 puanlanır. Böylece yalnız iyi konuşan öğrenci ile eserin tamamına gerçekten hâkim öğrenci birbirinden ayrılabilir.
 
-Kaynak-doğrulamalı tam örnek için: [`examples/osmancik/README.md`](examples/osmancik/README.md)
+## Tamamlanmış kaynak-doğrulamalı örnekler
+
+- [`Osmancık`](examples/osmancik/README.md)
+- [`Huzur`](examples/huzur/README.md)
+
+Her iki örnekte de kaynak haritası, 30 öğrenciye farklı sunum görevi, paketler arası denetim, öğrenci görev kartları, öğretmen kontrol soruları ve 30 kişilik takip/puanlama çizelgesi hazırdır.
 
 ## Değerlendirme ilkesi
 
