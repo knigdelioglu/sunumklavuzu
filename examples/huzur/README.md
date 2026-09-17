@@ -1,6 +1,6 @@
 # Huzur — Örnek Uygulama
 
-Bu klasör, **Ahmet Hamdi Tanpınar — Huzur** romanı için kaynak-doğrulamalı sunum sistemini içerir.
+Bu klasör, **Ahmet Hamdi Tanpınar — Huzur** romanı için kaynak-doğrulamalı sunum sisteminin tamamlanmış örneğidir.
 
 ## Kaynak
 
@@ -9,7 +9,15 @@ Bu klasör, **Ahmet Hamdi Tanpınar — Huzur** romanı için kaynak-doğrulamal
 - **Tür modülü:** `prompts/types/roman-hikaye.md`
 - **Doğrulanmış kaynak haritası:** [`kaynak-haritasi.md`](kaynak-haritasi.md)
 
-Dışarıdan özet, inceleme veya edebiyat tarihi bilgisi görev üretiminde kaynak olarak kullanılmaz. Roman metni belirleyicidir.
+Dışarıdan özet, inceleme veya edebiyat tarihi bilgisi görev üretiminde kaynak olarak kullanılmamıştır. Roman metni belirleyicidir.
+
+## Hazır dosyalar
+
+- **Kaynak haritası:** [`kaynak-haritasi.md`](kaynak-haritasi.md)
+- **30 görev için genel denetim:** [`sunum-paketleri/00-genel-denetim.md`](sunum-paketleri/00-genel-denetim.md)
+- **Öğrenciye verilecek 30 sade görev kartı:** [`ogrenci-gorev-kartlari.md`](ogrenci-gorev-kartlari.md)
+- **Öğretmen kontrol dosyası:** [`ogretmen-sunum-kontrol-dosyasi.md`](ogretmen-sunum-kontrol-dosyasi.md)
+- **30 kişilik öğretmen takip/puanlama çizelgesi:** [`ogretmen-sinif-takip-cizelgesi.md`](ogretmen-sinif-takip-cizelgesi.md)
 
 ## Romanın yapısı
 
@@ -22,79 +30,51 @@ Dört ana bölüm:
 
 Roman, İhsan'ın hastalığı ve yaklaşan savaşın oluşturduğu şimdiki zaman çerçevesi içinde geniş geri dönüşlerle Mümtaz'ın çocukluğunu, Nuran'la aşkını ve Suat krizini anlatır.
 
-## Tamamlanan sunum paketleri
+## 30 öğrencilik sunum paketleri
+
+Görevler tek seferde 30 madde üretmek yerine 5'erli paketler hâlinde hazırlanmış, her yeni paket önceki görevlerle karşılaştırılmış ve sonunda 30 görevin tamamı birlikte yeniden denetlenmiştir.
 
 - [`paket-01-ogrenci-1-5.md`](sunum-paketleri/paket-01-ogrenci-1-5.md)
 - [`paket-02-ogrenci-6-10.md`](sunum-paketleri/paket-02-ogrenci-6-10.md)
 - [`paket-03-ogrenci-11-15.md`](sunum-paketleri/paket-03-ogrenci-11-15.md)
 - [`paket-04-ogrenci-16-20.md`](sunum-paketleri/paket-04-ogrenci-16-20.md)
+- [`paket-05-ogrenci-21-25.md`](sunum-paketleri/paket-05-ogrenci-21-25.md)
+- [`paket-06-ogrenci-26-30.md`](sunum-paketleri/paket-06-ogrenci-26-30.md)
 
-Görevler tek seferde 30 öğrenci için üretilmez. Her yeni 5'li paket, önceki bütün görevlerle karşılaştırılarak hazırlanır.
+## Görev dağılımındaki ana alanlar
 
-## Şu anda kullanılan ana konu alanları
-
-İlk 20 öğrencide:
+30 öğrenci yalnız aşk hikâyesinin farklı biçimlerini anlatmaz. Görevler şu alanlara dağıtılmıştır:
 
 - Mümtaz'ın çocukluk kayıpları ve İhsan'ın rolü
-- Mümtaz–Nuran ilişkisinin başlangıcı
-- Mahur Beste ve Nuran'ın aile mirası
-- İstanbul'da değişim ve kültürel devamlılık
-- Nuran'ın Fahir ve Mümtaz'la ilişkilerindeki fark
-- musiki üzerinden kurulan ortak dil
+- Mümtaz–Nuran ilişkisinin farklı evreleri
+- Nuran'ın aile mirası ve Mahur Beste
+- şehir, kültürel devamlılık ve İstanbul'un psikolojik işlevi
+- musiki'nin aşk, hafıza ve kültürel aktarım işlevleri
 - Tevfik Bey–Yaşar Bey karşıtlığı
-- aşk ile Mümtaz'ın zihnî üretimi arasındaki ilişki
-- nikâh öncesi saadet ve Suat korkusu
-- Suat'ın ölümünün Nuran ve Mümtaz üzerindeki farklı etkileri
-- Fatma'nın çocuk gözüyle yetişkinlerin ilişkileri
-- dedikodu, kıskançlık ve sosyal çevrenin aşk üzerindeki baskısı
-- eski musikinin kaybolma ve aktarılma problemi
-- Suat'ın inkâr ile inanç ihtiyacı arasındaki çatışması
-- savaşın başlamadan önce gündelik hayata sızması
-- İhsan'ın değişim, devlet ve toplum görüşü
-- Mümtaz–hamal karşılaştırması üzerinden sınıf ve savaş sorumluluğu
-- İhsan Bey Adası'nda aile saadetinin yeniden kurulması
-- İstanbul'un Mümtaz'ın ruh hâline göre değişen anlamı
-- Mümtaz'ın “müdafaasız adam”dan yükünü taşımayı kabul eden kişiye doğru son tavrı
+- Fatma'nın çocuk dünyası
+- sosyal çevre, dedikodu ve kıskançlık
+- Suat'ın inanç, güven ve insan ilişkileri problemleri
+- savaşın gündelik hayata girişi
+- İhsan'ın değişim ve toplum düşüncesi
+- sınıf farkı ve toplumsal sorumluluk
+- aile saadetinin kurulması
+- tarihî kitaplar ve geçmiş araştırması
+- İclal–Muazzez karşılaştırması
+- Mümtaz'ın benzetmelerle düşünme biçimi
+- romanın zaman ve geri dönüş yapısı
+- özel hayat ile tarihî krizin yan yana gelişi
+- dört bölüm adının yapısal işlevi
 
-## Sonraki paketlerde tekrar edilmemesi gereken ana odaklar
+Aynı kişi veya malzeme birkaç görevde kullanıldığında sorulan problem özellikle ayrıştırılmıştır. Ayrıntılı kontrol için [`sunum-paketleri/00-genel-denetim.md`](sunum-paketleri/00-genel-denetim.md) kullanılabilir.
 
-Yeni görev üretirken yukarıdaki başlıkları yalnız farklı kelimelerle yeniden kurma. Özellikle:
+## Sınıfta kullanım
 
-- çocukluk travması ve İhsan'ın baba/hoca rolü,
-- aşkın başlangıcı,
-- Mahur Beste'nin Nuran'ın aile mirasındaki yeri,
-- musiki'nin Mümtaz–Nuran arasındaki ortak dil oluşu,
-- Suat'ın intiharının ilişkiyi bozması,
-- Şeyh Galip çalışmasının Nuran'a bağlı değişimi,
-- Fatma'nın Mümtaz'a kıskançlığı,
-- savaşın şehirdeki genel belirtileri,
-- hamal sahnesi,
-- İhsan'ın değişim düşüncesi,
-- finalde Suat hayaliyle yapılan “yükünü taşıma” konuşması
+1. Öğrencilere yalnız [`ogrenci-gorev-kartlari.md`](ogrenci-gorev-kartlari.md) içindeki kendi görevleri verilir.
+2. Öğrenci 3–5 dakikalık sunumunda en az iki somut metin dayanağını ilişkilendirir.
+3. Öğretmen, öğrencinin kendi sunum alanı dışındaki kontrol sorusunu [`ogretmen-sinif-takip-cizelgesi.md`](ogretmen-sinif-takip-cizelgesi.md) içinden sorar.
+4. Gerekirse daha derin takip soruları için [`ogretmen-sunum-kontrol-dosyasi.md`](ogretmen-sunum-kontrol-dosyasi.md) kullanılır.
+5. Puanlama `Sunum /4 + Kontrol /4 + Metin hâkimiyeti /4 = 12` üzerinden yapılabilir.
 
-yeniden ana görev yapılmamalıdır.
+## Kaynak ilkesi
 
-## 21–30 için açık kalan güçlü alanlar
-
-Kaynakta doğrulanmak şartıyla şu alanlara öncelik verilebilir:
-
-- Nuran'ın “aşkın ve vazifenin evleri” arasında parçalanması
-- Fahir'in Nuran'ı kaybettikten sonra onu başka gözle görmeye başlaması ve sonraki barışma
-- Mümtaz'ın eski kitap, yazma ve tarih merakı
-- İhsan'ın nasihatinden sonra Mümtaz'ın yoksul çocuk ve yaşlı Ermeni kadınla karşılaşmaları
-- İclal ile Muazzez'in çevreyi gözleme biçimlerindeki fark
-- Suat'ın son gecesinde insanlara güven/sorumluluk problemi
-- Nuran'ın Mümtaz'dan sonra Fahir'e dönüşü
-- romanın zaman ve hafıza düzeni
-- “huzur” fikrinin romandaki geçici ve kırılgan biçimleri
-- dört bölüm adının romanın yapısındaki işlevi
-
-## Tamamlanınca üretilecek dosyalar
-
-Osmancık örneğindeki standart korunacaktır:
-
-- 30 öğrenci için 6 adet 5'li sunum paketi
-- paketler arası genel denetim
-- öğrenciye verilecek sade görev kartları
-- öğretmen kontrol soru bankası
-- 30 kişilik öğretmen takip/puanlama çizelgesi
+Bu örnekte bütün ana görevler ve öğretmen soruları roman PDF'sindeki doğrulanmış kişi, olay, ilişki ve düşünce hatlarına dayanır. Kaynakta desteklenmeyen ayrıntı eklenmemelidir.
