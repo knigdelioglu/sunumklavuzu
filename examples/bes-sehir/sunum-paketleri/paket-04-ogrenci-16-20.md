@@ -30,9 +30,9 @@
 
 **Sunumunda:** Sema gecesinden ve ertesi sabahtan somut iki dayanak kullan; görevi yalnız Mevlevilik tanıtımına dönüştürme.
 
-**Kontrol sorusu:** İstanbul'da farklı insanların aynı şehre farklı anlamlar vermesine Tanpınar hangi örnekleri verir?
+**Kontrol sorusu:** Valide-i Cedid Camii ile Tâbi Mustafa Efendi'nin musikisini Tanpınar neden birlikte düşünür?
 
-**Kontrol cevabı:** Bir kadın için İstanbul şifalı ve berrak suların; Tanpınar'ın babası için ise büyük camilerin, güzel sesli müezzin ve hafızların şehridir.
+**Kontrol cevabı:** İkisini aynı devrin zevkini ve duyarlığını farklı sanatlarda taşıyan iki ifade olarak görür; mimari ile musiki birbirini açıklar.
 
 ---
 
